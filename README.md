@@ -25,7 +25,7 @@ The primary attributes of interest in this dataset are:
 
   The statistical summary of these attributes is provided in Table 1.
 
-  ![Soil Parameters Distributions](.\Soil_Parameters_Distributions.png)
+  ![Soil Parameters Distributions](Soil_Parameters_Distributions.png)
 
   **Table 1. Statistical Summary of the Anhui Soil Dataset**
 
